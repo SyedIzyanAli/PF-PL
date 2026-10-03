@@ -14,7 +14,7 @@ while (true)
         break;
     }
     else{
-    if (marks>0)
+    if (marks>=0)
     {
         sum += marks;
         ++noofstudents;
